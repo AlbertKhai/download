@@ -1,0 +1,20 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+html {
+   font-size: 10px;
+}
+
+body {
+   font-family: "Times New Roman", Times, serif;
+   font-size: 1.6rem;
+   padding-top: 20px;
+}
+
+.heading-ex {
+   text-align: center;
+   font-size: 4rem;
+   margin-bottom: 20px;
+}
